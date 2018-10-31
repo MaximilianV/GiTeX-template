@@ -11,9 +11,8 @@
 
 ## Ein paar Spielregeln und Best Practices
  * Ziel des Spiels: **Jeder** soll hinterher die Grundlagen von Git und LaTeX beherrschen.
- * Ihr spielt in Zweierteams, mit je einem "Profi" und einem "Lehrling".
+ * Ihr spielt in Zweierteams, mit je einer erfahrenen und einer lernenden Person.
  * Profis: Hände weg von den Tastaturen! Greift eurem Lehrling unter die Arme und helft ihm durch die Schritte, wenn es Probleme gibt. Erklärt, warum wie was funktioniert.
  * Nicht schummeln! Googlen ist natürlich erlaubt.
- * Sicherlich gibt es die eine oder andere Abkürzung, aber ein Sportler wird auch nicht besser, indem er Trainingseinheiten schwänzt. ;)
+ * Sicherlich gibt es die eine oder andere Abkürzung, aber Sportler werden auch nicht besser, indem sie Trainingseinheiten schwänzen. ;)
  * Bei LaTeX-Dokumenten generell, in Verbindung mit Git sogar im Speziellen sinnvoll: Jeder Satz kommt in eine neue Zeile. Ungewohnt, erspart aber viel Ärger!
- 
