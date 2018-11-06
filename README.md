@@ -4,7 +4,7 @@
 
 In diesem Branch liegt eine „main.tex“ Datei, die ein grundlegendes Gerüst für ein LaTeX Dokument bildet. Dieses Dokument sollt ihr im Folgenden befüllen.
 
-1. Füllt die Felder vor dem Dokumentenbeginn mit euren Daten.
+1. Füllt die Felder vor dem Beginn des Dokuments mit euren Daten.
 1. Natürlich möchtet ihr auch eine entsprechende Überschrift automatisch aus diesen Daten generieren und auf eurem Dokument anzeigen. Welcher Befehl könnte da weiterhelfen? Fügt ihn entsprechend zum Dokumentbeginn ein.
 1. Zeit für einen ersten Commit! Außerdem solltet ihr diesen auch auf GitHub pushen, damit eure Arbeit nicht verloren gehen kann.
 1. So, Zeit für Inhalte: Im Dokument gibt es bereits zwei leere Überschriften. Seid ihr Gruppe 1 arbeitet ihr mit der ersten „section“, bei Gruppe 2 entsprechend mit der Zweiten. Eure Überschrift solltet ihr entsprechend anpassen, damit der Leser weiß, was ihn erwartet.
